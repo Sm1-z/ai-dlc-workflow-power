@@ -1,19 +1,10 @@
 ---
-name: ai-dlc-workflow
-displayName: AI-DLC Workflow
-description: AI-Driven Development Life Cycle - An intelligent, adaptive software development workflow that adapts to your project's needs, maintains quality standards, and keeps you in control of the process.
-version: 1.0.0
-author: AWS
-keywords:
-  - ai-dlc
-  - development
-  - lifecycle
-  - workflow
-  - adaptive
-  - inception
-  - construction
-  - requirements
-  - design
+name: "ai-dlc-workflow"
+displayName: "AI-DLC Workflow"
+description: "AI-Driven Development Life Cycle - An intelligent, adaptive software development workflow that adapts to your project's needs, maintains quality standards, and keeps you in control of the process."
+version: "1.0.0"
+author: "AWS"
+keywords: ["ai-dlc", "development", "lifecycle", "workflow", "adaptive", "inception", "construction", "requirements", "design"]
 ---
 
 # AI-DLC Workflow
